@@ -8,7 +8,7 @@ Para executar o projeto no terminal, digite o seguinte comando:
 mvn spring-boot:run 
 ```
 
-Para executar a suíte de testes desenvolvida durante a live coding, basta executar o seguinte comando:
+Para executar a suíte de testes desenvolvida, basta executar o seguinte comando:
 
 ```shell script
 mvn clean test
